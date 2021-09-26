@@ -1,2 +1,2 @@
-This is the UI of Google.com!
+This is the User Interface of google.com which created for The Odin Project!
 
